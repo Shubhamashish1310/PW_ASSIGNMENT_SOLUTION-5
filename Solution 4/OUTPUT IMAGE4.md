@@ -1,0 +1,2 @@
+# SOLUTION 4
+![SENTIMENT TAG](image.png)
